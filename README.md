@@ -3,7 +3,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/CTF-Reconnaissance-blue" alt="CTF Tool">
   <img src="https://img.shields.io/badge/Shell-Bash-green" alt="Bash">
-  <img src="https://img.shields.io/badge/License-MIT-yellow" alt="License">
 </div>
 
 ## 🔍 Overview
